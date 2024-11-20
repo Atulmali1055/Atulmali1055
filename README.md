@@ -1,4 +1,4 @@
-👋 Hi, I’m @Atulmali1055
+👋 Hi, I’m Atul
 
 👀 Passionate about data-driven solutions and building efficient pipelines.
 
