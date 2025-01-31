@@ -8,7 +8,7 @@
 
 📫 Reach me: atulmali1055@gmail.com | [LinkedIn](https://www.linkedin.com/in/atul-mali/)
 
-🎓 Microsoft Certifications: Azure Data Fundamentals | Azure Fundamentals
+🎓 Microsoft Certifications: Azure Data Engineer Associate | Azure Data Fundamentals | Azure Fundamentals 
 
 ⚡ Fun fact: I love uncovering hidden patterns in data!
 <!---
