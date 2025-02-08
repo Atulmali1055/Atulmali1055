@@ -10,10 +10,10 @@
 
 🎓 Certifications: 
 
-   * Oracle Database SQL Certified Associate 
-   * Azure Data Engineer Associate 
-   * Azure Data Fundamentals 
-   * Azure Fundamentals 
+   * Oracle Database SQL Certified Associate (1z0-071)
+   * Azure Data Engineer Associate (DP-203)
+   * Azure Data Fundamentals (DP-900)
+   * Azure Fundamentals (AZ-900)
 
 ⚡ Fun fact: I love uncovering hidden patterns in data!
 <!---
